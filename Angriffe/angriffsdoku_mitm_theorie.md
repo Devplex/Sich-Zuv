@@ -3,6 +3,11 @@
 Autor: Gerrit Haake
 Datum: 05.12.2017
 
+### Fallbeschreibung
+
+Anna (im folgenden PC-A), Benni (im folgenden PC-B) und Corinna (im folgenden PC-C) befinden sich im gleichen Netzwerk. Anna möchte sich mit Benni über das LAN verbinden und Daten austauschen.
+Corinna will die Daten abfangen, ohne das Anna es mitbekommt.
+
 ### 1. Ausgang
 
 - 3 PCs
@@ -49,3 +54,11 @@ Bekannte Tools sind:
 - Arpwatch
 - ARP-Guard
 - XAarp
+
+### Fazit
+
+1. Das Mitschneiden von Daten in einem öffentlichen Netzwerk ist möglich und einfach.
+2. Es sollten keine wichtigen oder persönlichen Daten in öffentlichen Netzwerken eingeben werden.
+3. Auf Webstites auf denen relevante Zugansdaten eingegeben werden ist darauf zu achten, dass im Browser https:// und nicht http:// vor der Website steht (Sichere Verbindung).
+4. Meldung wie "Die verschlüsselte Seite versucht Daten über eine unsichere Verbindung zu versenden" sollten beachtet werden.
+
