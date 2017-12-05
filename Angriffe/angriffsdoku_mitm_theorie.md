@@ -20,6 +20,12 @@ Datum: 05.12.2017
 - Antwortet also, obwohl die Anfrage nicht ihm zugeordnet war.
 - Damit das Ganze nicht auffällt, leitet PC-C die Packete anschließend von seiner IP auf die IP des PC-B transparent weiter.
 
+### 4. Angriff erfolgreich durchgeführt
+
+![ARP-Spoofing](http://2we26u4fam7n16rz3a44uhbe1bq2.wpengine.netdna-cdn.com/wp-content/uploads/120711_2318_VLANHacking1.png)
+
+Die obere Grafik zeigt den zuvor beschriebenen Angriff. Nun kann PC-C unverschlüsselte Pakete auslesen und somit an Passwörter, E-Mailadressen und weitere Daten erhalten.
+
 ## Gegenmaßnahmen
 
 ### Gegenmaßnahme 1: SSL verwenden
