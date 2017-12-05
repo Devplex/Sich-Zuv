@@ -29,7 +29,8 @@ Corinna will die Daten abfangen, ohne das Anna es mitbekommt.
 
 ![ARP-Spoofing](http://2we26u4fam7n16rz3a44uhbe1bq2.wpengine.netdna-cdn.com/wp-content/uploads/120711_2318_VLANHacking1.png)
 
-Die obere Grafik zeigt den zuvor beschriebenen Angriff. Nun kann PC-C unverschlüsselte Pakete auslesen und somit an Passwörter, E-Mailadressen und weitere Daten erhalten.
+Die obere Grafik zeigt den zuvor beschriebenen Angriff. Die ARP-Tabelle wurde "infiziert" und die Daten werden alle über den PC-C geleitet. 
+Nun kann PC-C unverschlüsselte Pakete auslesen und somit an Passwörter, E-Mailadressen und weitere Daten erhalten, die über nicht-verschlüsselte Verbindungen vesendet wurden.
 
 ## Gegenmaßnahmen
 
